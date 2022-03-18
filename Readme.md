@@ -1,3 +1,5 @@
+**Note**: This is a static, unmaintained version of the script kept here for archival purposes
+
 # BGC lib
 
 This is the official repository of the **Biosynthetic Gene Cluster Library**, a Python library with classes and methods for manipulation and analysis of BGCs.
