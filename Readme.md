@@ -131,3 +131,6 @@ YIKTLDKA
 
 This can be useful for making phylogenetic studies of the CBPs (sub)sequences, which can include characterized data (e.g. from MIBiG) in order to to study evolution and de-replicate BGCs for prioritization.
 
+## Author
+
+[https://github.com/jorgecnavarrom](https://github.com/jorgecnavarrom)
