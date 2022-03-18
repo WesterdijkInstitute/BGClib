@@ -2,7 +2,9 @@
 
 # BGC lib
 
-This is the official repository of the **Biosynthetic Gene Cluster Library**, a Python library with classes and methods for manipulation and analysis of BGCs.
+This is the *archival* repository of the **Biosynthetic Gene Cluster Library**, a Python library with classes and methods for manipulation and analysis of BGCs.
+
+The maintained version of this project is [here](https://github.com/jorgecnavarrom/BGClib)
 
 For more information on BGClib, see [here](./BGClib/Readme.md).
 
