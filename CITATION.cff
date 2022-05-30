@@ -17,3 +17,9 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.6593238
     description: A pointer to public release 1 of the software
+repository-code: 'https://github.com/WesterdijkInstitute/BGClib'
+keywords:
+  - biosynthetic gene clusters
+  - secondary metabolites
+license: AGPL-3.0
+date-released: '2022-05-30'
