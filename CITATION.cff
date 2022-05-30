@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: BGClib
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jorge C.
+    family-names: Navarro-Muñoz
+    email: j.navarro@wi.knaw.nl
+    affiliation: Westerdijk Fungal Biodiversity Institute
+    orcid: 'https://orcid.org/0000-0003-2992-1607'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.6593238
+    description: A pointer to public release 1 of the software
