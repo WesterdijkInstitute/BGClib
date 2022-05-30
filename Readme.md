@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/471395537.svg)](https://zenodo.org/badge/latestdoi/471395537)
+
 **Note**: This is a static, unmaintained version of the script kept here for archival purposes
 
 # BGC lib
